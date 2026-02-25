@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.ba7lcy.com</id>
+    <title>BA7LCY的记事本</title>
+    <updated>2026-02-25T13:40:39.161Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.ba7lcy.com"/>
+    <link rel="self" href="https://blog.ba7lcy.com/atom.xml"/>
+    <subtitle>纸上得来终觉浅，绝知此事要躬行</subtitle>
+    <logo>https://blog.ba7lcy.com/images/avatar.png</logo>
+    <icon>https://blog.ba7lcy.com/favicon.ico</icon>
+    <rights>All rights reserved 2026, BA7LCY的记事本</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows Server 2022 安装 Piwigo]]></title>
+        <id>https://blog.ba7lcy.com/windows-server-2022-an-zhuang-piwigo/</id>
+        <link href="https://blog.ba7lcy.com/windows-server-2022-an-zhuang-piwigo/">
+        </link>
+        <updated>2026-02-22T13:13:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Openwrt 使用 MosDNS 和 Cloudflare 优选 IP 优化访问]]></title>
+        <id>https://blog.ba7lcy.com/openwrt-shi-yong-mosdns-he-cloudflare-you-xuan-ip-you-hua-fang-wen/</id>
+        <link href="https://blog.ba7lcy.com/openwrt-shi-yong-mosdns-he-cloudflare-you-xuan-ip-you-hua-fang-wen/">
+        </link>
+        <updated>2026-02-12T02:01:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Server 2022 硬盘休眠有关测试]]></title>
+        <id>https://blog.ba7lcy.com/windows-server-2022-ying-pan-xiu-mian-you-guan-ce-shi/</id>
+        <link href="https://blog.ba7lcy.com/windows-server-2022-ying-pan-xiu-mian-you-guan-ce-shi/">
+        </link>
+        <updated>2025-08-06T10:49:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的全家数据备份方案]]></title>
+        <id>https://blog.ba7lcy.com/wo-de-quan-jia-shu-ju-bei-fen-fang-an/</id>
+        <link href="https://blog.ba7lcy.com/wo-de-quan-jia-shu-ju-bei-fen-fang-an/">
+        </link>
+        <updated>2025-05-15T14:53:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zpaqfranz Wiki 部分中文机翻]]></title>
+        <id>https://blog.ba7lcy.com/zpaqfranz-wiki-bu-fen-zhong-wen-ji-fan/</id>
+        <link href="https://blog.ba7lcy.com/zpaqfranz-wiki-bu-fen-zhong-wen-ji-fan/">
+        </link>
+        <updated>2025-05-14T01:07:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 PAKKA (Windows zpaqfranz GUI) 备份]]></title>
+        <id>https://blog.ba7lcy.com/shi-yong-pakka-windows-zpaqfranz-gui-bei-fen/</id>
+        <link href="https://blog.ba7lcy.com/shi-yong-pakka-windows-zpaqfranz-gui-bei-fen/">
+        </link>
+        <updated>2025-05-13T07:21:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米 MIX2S 安装 Android 和 Windows 双系统]]></title>
+        <id>https://blog.ba7lcy.com/xiao-mi-mix2s-an-zhuang-android-he-windows-shuang-xi-tong/</id>
+        <link href="https://blog.ba7lcy.com/xiao-mi-mix2s-an-zhuang-android-he-windows-shuang-xi-tong/">
+        </link>
+        <updated>2022-11-26T18:42:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PVE 引导损坏修复记录]]></title>
+        <id>https://blog.ba7lcy.com/pve-yin-dao-sun-pi-xiu-fu-ji-lu/</id>
+        <link href="https://blog.ba7lcy.com/pve-yin-dao-sun-pi-xiu-fu-ji-lu/">
+        </link>
+        <updated>2022-11-02T11:52:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 下部署 Komga]]></title>
+        <id>https://blog.ba7lcy.com/windows-xia-bu-shu-komga/</id>
+        <link href="https://blog.ba7lcy.com/windows-xia-bu-shu-komga/">
+        </link>
+        <updated>2022-09-24T19:16:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 下配置 CloudFlare 动态域名解析]]></title>
+        <id>https://blog.ba7lcy.com/windows-xia-pei-zhi-cloudflare-dong-tai-yu-ming-jie-xi/</id>
+        <link href="https://blog.ba7lcy.com/windows-xia-pei-zhi-cloudflare-dong-tai-yu-ming-jie-xi/">
+        </link>
+        <updated>2022-04-10T10:38:03.000Z</updated>
+    </entry>
+</feed>
